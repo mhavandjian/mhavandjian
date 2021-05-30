@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhavandjian
-- 👀 I’m interested in data engeneering, Machine Learning, video analytics
+- 👀 I’m interested in data engeneering, machine learning, video analytics
 - 🌱 I’m currently learning big data engeneering, time series forecasting
 - 💞️ I’m looking to collaborate on projects related to my interests
 - 📫 How to reach me: send messages to mhavandjian@gmail.com
